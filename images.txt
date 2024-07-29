@@ -1,2 +1,2 @@
 nginx
-hadoop
+hadoop-docker
