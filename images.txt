@@ -1,2 +1,2 @@
 nginx
-hadoop-docker:3.3.6
+hadoop
