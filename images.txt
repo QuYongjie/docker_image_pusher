@@ -1,2 +1,2 @@
 nginx
-sequenceiq/hadoop-docker:3.3.6
+sequenceiq/hadoop-docker:2.6.0
